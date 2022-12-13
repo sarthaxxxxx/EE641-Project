@@ -17,7 +17,7 @@ and present an adversarial invariance approach, and propose a feature extraction
     $ pip install requirements.txt
     
 ## Pre-processing (frame-level extraction from videos)
-  ### Configuring config.yaml
+  ### Configuring ./preprocessed/config.yaml
   To train the 2DCNN + LSTM based autoencoder, model: convlstm. The resized size of the frames remains the same. However, if you wish to change that, please configure the model architecture as well for reconstruction. You're free to experiment with model: 3dcnn, as well. Set 'data' to your data directory. 'processed' refers to the directory where all the extracted features will be saved, as per the subject id. You're free to configure 'data_aug' as well, if data augmentation to the video frames are needed. The best model will be saved in ./preprocess/models/ckpt/ .
   
   ### Feature extraction (training) and feature generation (inference) (single GPU)
