@@ -36,8 +36,8 @@ and present an adversarial invariance approach, and propose a feature extraction
   ```
   
 ## Presentation and Poster
-  [Presentation](https://drive.google.com/file/d/1BkNZ1QMl1UM9ivvUNMVxLee7U2RC-Kzj/view?usp=sharing) <br>
-  [Poster](https://drive.google.com/file/d/188MDKXdYPgAHxiyvGJt11-i0OjF1-8Pq/view?usp=sharing)
+  [Presentation](https://drive.google.com/file/d/1Rfz2-ZuXNXbrxmiLPGl49zjv1XPJSlH1/view?usp=sharing) <br>
+  [Report](https://drive.google.com/file/d/1GNIAXjgUSvDQlLjLGUZmL-EwjkACeoem/view?usp=sharing)
 
   
 ## License
