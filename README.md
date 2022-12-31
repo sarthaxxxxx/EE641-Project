@@ -47,4 +47,4 @@ MIT License
 ## Contacts
   Sarthak Kumar Maharana - email: maharana@usc.edu \
   Vibhav HV - email: vibhavho@usc.edu \
-  Gopi Maganti - emial: gmaganti@usc.edu
+  Gopi Maganti - email: gmaganti@usc.edu
